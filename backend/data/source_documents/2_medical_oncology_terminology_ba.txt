@@ -1,0 +1,81 @@
+MEDICAL ONCOLOGY TERMINOLOGY
+Halima Ba MPH, MD, Affordable Language Services (08/29/2013)
+
+=== Slide 1 - Title ===
+Medical Oncology Terminology by Halima Ba MPH, MD, Affordable Language Services (08/29/2013).
+
+=== Slide 2 - Oncology / Oncologist ===
+Oncology: The study of tumors, both malignant and benign. Oncologist: A doctor who specializes in treating cancer.
+
+=== Slide 3 - Cancer Definition ===
+Cancer is an abnormal cell division without control and cells are able to invade other tissues. Cancer cells can spread to other parts of the body through the blood and lymph systems.
+
+=== Slide 4 - Blood and Lymphatic Systems ===
+Cancer uses the cardiovascular and lymphatic systems as primary pathways for regional and distant metastasis throughout the body.
+
+=== Slide 5 - Types of Tumors ===
+Benign tumors are not cancerous. Malignant tumors are cancerous. Some cancers do not form solid tumors; for example, leukemia is a cancer of the bone marrow and blood.
+
+=== Slide 6 - Cancer Statistics ===
+In 2013, an estimated 11,630 cases of cancer diagnosed in children 14 and younger compared to over 1.6 million cases diagnosed in adults (National Cancer Institute).
+
+=== Slide 8 - Most Common Childhood Cancers in USA ===
+Leukemia: 31% of all childhood cancers (including benign brain tumors); Brain and other CNS tumors: 25%; Neuroblastoma: 6%; Wilms tumor: 5%; Non-Hodgkin lymphoma: 4%; Hodgkin lymphoma: 4%; Rhabdomyosarcoma: 3%; Osteosarcoma: 3%; Retinoblastoma: 2%; Ewing sarcoma: 1%.
+
+=== Slide 9 - Etiology of Childhood Cancers ===
+Causes are largely unknown. Down syndrome, other chromosomal/genetic abnormalities, and ionizing radiation exposures explain a small percentage of cases.
+
+=== Slide 10 - Most Common Adult Cancers in USA ===
+According to the National Institutes of Health: Lung and bronchial cancer, Colon and rectal cancer, Breast cancer, Pancreatic cancer, Prostate cancer, Leukemia, Non-Hodgkin lymphoma, Liver and intrahepatic bile duct cancer, Ovarian cancer, Esophageal cancer.
+
+=== Slide 11 - Etiology of Adult Cancer ===
+Major causal categories: Environmental factors, Viruses and bacteria, Lifestyle factors, Medical drugs and hormones, Hereditary/genetic factors.
+
+=== Slide 12 - Environmental Factors ===
+Industrial/occupational exposures: Coal miners, factory workers, asbestos. Ultraviolet light increases risk of skin cancers. Ionizing radiation (X-rays, nuclear accidents) increases risk of breast cancer, leukemia, and thyroid cancer.
+
+=== Slide 13 - Viruses and Bacteria in Cancer ===
+Epstein-Barr virus (EBV): Hodgkin lymphoma. Human Immunodeficiency Virus (HIV): NHL and Kaposi sarcoma. Human Papillomavirus (HPV): Cervical cancer. Hepatitis B and C: Hepatocellular cancer. Human T-cell leukemia virus (HTLV-1): Risk of leukemia and lymphoma. Helicobacter pylori (HP): Stomach cancer.
+
+=== Slide 15-16 - Lifestyle Factors ===
+Tobacco / Cigarette smoking causes lung, oropharyngeal, and bladder cancers. Radon causes lung cancer. Alcohol is associated with esophageal, liver, oropharynx, breast, and larynx cancers. Diet high in fat and low in fruits and vegetables is implicated in colorectal cancer.
+
+=== Slide 17 - Drugs and Hormones Causing Cancer ===
+Alkylating agents (Cyclophosphamide, Melphalan): Bladder cancer, leukemia. Antimetabolites (Azathioprine): NHL, skin cancer. Corticosteroids (Prednisone): NHL. Estrogens (Diethylstilbestrol): Vaginal cancer in female offspring. Combined chemotherapy and radiation: Secondary leukemia.
+
+=== Slide 18 - Hereditary / Genetic Syndromes ===
+Cancer as primary manifestation: Retinoblastoma, neuroblastoma, pheochromocytoma. Inherited conditions: Familial polyposis, Fanconi anemia, Xeroderma pigmentosum. Immune deficiencies: Wiskott-Aldrich syndrome. Chromosomal aberrations: Down syndrome.
+
+=== Slide 19 - Cancer Warning Signs & Symptoms ===
+A thickening or lump in the breast or any other part of the body; A new mole or change in existing mole (ABCDE); A sore that does not heal; Hoarseness or cough that does not go away; Changes in bowel or bladder habits; Discomfort after eating or difficulty swallowing; Unexplained weight loss or gain; Unusual bleeding or discharge; Feeling weak or very tired.
+
+=== Slide 20-21 - Screening Protocols ===
+Breast: Mammogram is the best tool to find breast cancer early (X-ray picture of the breast). Cervix: Pap test (Pap smear) checks cervical cells; start 3 years after sexual intercourse or at age 21, repeated every 3 years. Colon and rectum: Screening tests detect polyps and cancer for adults aged 50 and older.
+
+=== Slide 22-27 - Diagnostic Modalities ===
+Biopsy: Removal of small section of tumor for histopathological analysis (needle biopsy, resection biopsy). Hematology: Measures blood cells, bone marrow aspiration, lumbar puncture for spinal fluid. Tumor markers: Neuron-specific enolase (NSE) for neuroblastoma; Alpha-fetoprotein (AFP) for germ cell/liver tumors. Medical Imaging: X-ray, CT (cross-sectional computer slices), MRI (magnetic resonance of biochemical tissue activity), Ultrasound (sound wave reflection).
+
+=== Slide 28-29 - Cancer Staging Systems ===
+TNM Staging: T (Size/extent of primary tumor), N (Number and regional lymph nodes involved), M (Distant metastasis). Summary Stage: Stage 0 (in situ), Stage I (local stage), Stage II (local or regional depending on nodes), Stage III (regional stage), Stage IV (distant metastasis).
+
+=== Slide 32-37 - Cancer Treatments ===
+Surgery: Pre-operative chemotherapy shrinks tumor before surgery; Complete resection removes entire tumor; Prosthesis/Endoprosthesis replaces amputated bone/limb. Radiotherapy: External radiotherapy from outside source; Internal radiotherapy / Brachytherapy places radioactive source inside or near tumor; Systemic radiation travels via liquid/capsule; Total Body Irradiation (TBI) destroys malignant cells before Bone Marrow Transplant (BMT). Chemotherapy: Cytotoxic drugs kill or damage rapidly dividing cells; Central line (e.g., Hickman catheter) delivers chemo directly into central vein. Hormone therapy: Drugs block hormone production/action; Surgery removes hormone-producing ovaries/testes. Bone Marrow Transplant: Allogeneic BMT uses matched donor marrow; Autologous BMT uses patient's own treated marrow; Peripheral Blood Stem Cell Rescue (PBSC).
+
+=== Slide 38 - Toxicity and Side Effects ===
+Acute side effects: Transient, sudden or severe. Chronic side effects: Long-lasting (e.g., kidney damage, heart toxicity). Immunosuppression: Dampened immune system making patient prone to infections. Neutropenia: Low white blood cell count (febrile neutropenia when accompanied by fever).
+
+=== Slide 39 - Prognosis Terminology ===
+Remission: Symptoms and evidence of cancer disappear under clinical testing. Relapse: Disease reoccurs after remission period. Refractory: Cancer is resistant to treatment and does not respond. Restaging: Staging evaluation repeated after therapy to measure response. Follow-up: Periodic visits to monitor and detect recurrence early.
+
+=== Slide 40 - Breast Cancer Five-Year Survival Rates ===
+Stage 0 (DCIS): 93%; Stage I: 88%; Stage IIA: 81%; Stage IIB: 74%; Stage IIIA: 67%; Stage IIIB: 41%; Stage IIIC: 49%; Stage IV (Metastatic): 15%.
+
+=== Slide 44-48 - Medical Oncology Vocabulary ===
+Carcinogenesis: development of cancer. Apoptosis: programmed normal restraining cell death. Neoplasm: tumor. Carcinoma: cancer from skin or tissue lining organs (subtypes: adenocarcinoma, basal cell, squamous cell, transitional cell). Sarcoma: cancer from bone, cartilage, muscle, blood vessels (chondrosarcoma, hemangiosarcoma, mesothelioma). Lymphoma: cancer of immune/lymphatic system. Leukemia: cancer of blood-forming bone marrow tissue. Myeloma: cancer of plasma cells in bone marrow. Grading: degree of dedifferentiation (anaplasia) I to IV (IV most abnormal). CIS: carcinoma in situ. Lumpectomy: tumor removal. Radical mastectomy: removal of breast. Margins: borders of normal tissue around tumor. 3DCRT: 3D conformal radiation. IMRT: intensity-modulated radiation therapy. Brachytherapy: internal radiation implants. Gamma knife surgery: focused radiation for brain tumors. CAM: complementary and alternative medicine. Anaplasia: loss of structural differentiation. Dysplastic: abnormal cell formation, not clearly malignant. Fungating: mushrooming tumor growth. Laparoscopy: visual exam of abdominal cavity. Oncogenes: cancer-causing mutated genes.
+
+=== Slide 49-51 - Medical Suffixes in Oncology ===
+-able (to be), -al (pertaining to), -ectomy (surgical excision), -emia (blood condition), -gen (produces), -gene (gene), -gram (record/picture), -graphy (process of recording), -ic/-ical (pertaining to), -itis (inflammation), -logy (study of), -oid (resembling), -oma (tumor/mass), -opsy (viewing), -osis (condition/process), -pathy (disease), -plasia (condition of growth), -plasm (formed substance/growth), -scopy (visual examination), -stasis (standing still/stopping), -therapy (treatment), -tomy (incision/cutting).
+
+=== Slide 52-60 - Medical Roots in Oncology ===
+ablat/o (destroy/remove), aden/o (gland), angi/o (vessel), bi/o (life/tissue), blast/o (immature/embryonic), brachy- (short), bronch/o (bronchus), carcin/o (cancer), cellul/o (cell), chem/o (chemical/drug), cholangi/o (bile duct), chondr/o (cartilage), cyt/o (cell), differentiat/o (specialized), enter/o (intestine), hepat/o (liver), lapar/o (abdomen), leuk/o (white), lymph/o (lymph), mamm/o (breast), melan/o (black/pigment), mutat/o (change), myel/o (bone marrow/spinal cord), ne/o (new), necr/o (dead cells), nephr/o (kidney), onc/o (tumor), oste/o (bone), path/o (disease), radi/o (radiation/x-rays), sarc/o (connective tissue), squam/o (scalelike), tom/o (cut/slice), vesic/o (bladder).
+

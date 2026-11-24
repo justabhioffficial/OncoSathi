@@ -1,0 +1,1024 @@
+{
+  "basic_concepts": [
+    {
+      "category": "Basic Concepts",
+      "term": "Oncology",
+      "definition": "Study of cancer"
+    },
+    {
+      "category": "Basic Concepts",
+      "term": "Neoplasm",
+      "definition": "Abnormal mass of tissue"
+    },
+    {
+      "category": "Basic Concepts",
+      "term": "Tumor",
+      "definition": "Swelling or mass; may be benign or malignant"
+    },
+    {
+      "category": "Basic Concepts",
+      "term": "Benign",
+      "definition": "Non-cancerous growth that does not spread"
+    },
+    {
+      "category": "Basic Concepts",
+      "term": "Malignant",
+      "definition": "Cancerous growth capable of invasion and metastasis"
+    },
+    {
+      "category": "Basic Concepts",
+      "term": "Carcinogenesis",
+      "definition": "Process of cancer development"
+    },
+    {
+      "category": "Types of Cancer",
+      "term": "Carcinoma",
+      "definition": "Cancer originating in epithelial cells"
+    },
+    {
+      "category": "Types of Cancer",
+      "term": "Sarcoma",
+      "definition": "Cancer of connective tissues (bone, muscle)"
+    },
+    {
+      "category": "Types of Cancer",
+      "term": "Leukemia",
+      "definition": "Cancer of blood-forming tissues"
+    },
+    {
+      "category": "Types of Cancer",
+      "term": "Lymphoma",
+      "definition": "Cancer of the lymphatic system"
+    },
+    {
+      "category": "Types of Cancer",
+      "term": "Melanoma",
+      "definition": "Cancer of melanocytes (skin cells)"
+    },
+    {
+      "category": "Types of Cancer",
+      "term": "Glioma",
+      "definition": "Tumor of glial cells in the brain"
+    },
+    {
+      "category": "Diagnosis",
+      "term": "Biopsy",
+      "definition": "Removal of tissue for examination"
+    },
+    {
+      "category": "Diagnosis",
+      "term": "Histopathology",
+      "definition": "Study of diseased tissue under a microscope"
+    },
+    {
+      "category": "Diagnosis",
+      "term": "Cytology",
+      "definition": "Study of individual cells"
+    },
+    {
+      "category": "Diagnosis",
+      "term": "Mammography",
+      "definition": "Imaging test for breast cancer detection"
+    },
+    {
+      "category": "Diagnosis",
+      "term": "CT Scan",
+      "definition": "Imaging using X-rays to create detailed cross-sections"
+    },
+    {
+      "category": "Diagnosis",
+      "term": "MRI",
+      "definition": "Imaging using magnetic fields and radio waves"
+    },
+    {
+      "category": "Staging & Grading",
+      "term": "TNM Staging",
+      "definition": "Classification based on Tumor size, Node involvement, Metastasis"
+    },
+    {
+      "category": "Staging & Grading",
+      "term": "Grade",
+      "definition": "Describes how abnormal cancer cells look"
+    },
+    {
+      "category": "Staging & Grading",
+      "term": "Stage",
+      "definition": "Extent of cancer spread"
+    },
+    {
+      "category": "Staging & Grading",
+      "term": "Metastasis",
+      "definition": "Spread of cancer to distant organs"
+    },
+    {
+      "category": "Staging & Grading",
+      "term": "Localized",
+      "definition": "Cancer confined to origin"
+    },
+    {
+      "category": "Staging & Grading",
+      "term": "Advanced",
+      "definition": "Cancer that has spread significantly"
+    },
+    {
+      "category": "Treatment",
+      "term": "Chemotherapy",
+      "definition": "Use of drugs to kill cancer cells"
+    },
+    {
+      "category": "Treatment",
+      "term": "Radiotherapy",
+      "definition": "Use of radiation to destroy cancer cells"
+    },
+    {
+      "category": "Treatment",
+      "term": "Immunotherapy",
+      "definition": "Treatment that boosts immune system to fight cancer"
+    },
+    {
+      "category": "Treatment",
+      "term": "Targeted Therapy",
+      "definition": "Drugs targeting specific cancer cell mechanisms"
+    },
+    {
+      "category": "Treatment",
+      "term": "Surgery",
+      "definition": "Physical removal of tumor"
+    },
+    {
+      "category": "Treatment",
+      "term": "Hormone Therapy",
+      "definition": "Treatment blocking hormones that fuel certain cancers"
+    },
+    {
+      "category": "Prognosis & Outcomes",
+      "term": "Remission",
+      "definition": "Reduction or disappearance of cancer signs"
+    },
+    {
+      "category": "Prognosis & Outcomes",
+      "term": "Recurrence",
+      "definition": "Return of cancer after treatment"
+    },
+    {
+      "category": "Prognosis & Outcomes",
+      "term": "Survival Rate",
+      "definition": "Percentage of patients alive after a certain time"
+    },
+    {
+      "category": "Prognosis & Outcomes",
+      "term": "Palliative Care",
+      "definition": "Care focused on symptom relief and quality of life"
+    },
+    {
+      "category": "Prognosis & Outcomes",
+      "term": "Curative Treatment",
+      "definition": "Treatment aimed at completely eliminating cancer"
+    },
+    {
+      "category": "Molecular & Genetic",
+      "term": "Oncogene",
+      "definition": "Gene that can cause cancer when mutated"
+    },
+    {
+      "category": "Molecular & Genetic",
+      "term": "Tumor Suppressor Gene",
+      "definition": "Gene that regulates cell growth"
+    },
+    {
+      "category": "Molecular & Genetic",
+      "term": "Mutation",
+      "definition": "Change in DNA sequence"
+    },
+    {
+      "category": "Molecular & Genetic",
+      "term": "Biomarker",
+      "definition": "Biological molecule indicating disease"
+    },
+    {
+      "category": "Molecular & Genetic",
+      "term": "BRCA1/BRCA2",
+      "definition": "Genes associated with breast and ovarian cancer risk"
+    },
+    {
+      "category": "Cellular Processes",
+      "term": "Apoptosis",
+      "definition": "Programmed cell death"
+    },
+    {
+      "category": "Cellular Processes",
+      "term": "Proliferation",
+      "definition": "Rapid increase in cell number"
+    },
+    {
+      "category": "Cellular Processes",
+      "term": "Angiogenesis",
+      "definition": "Formation of new blood vessels to supply tumors"
+    },
+    {
+      "category": "Cellular Processes",
+      "term": "Differentiation",
+      "definition": "Process by which cells become specialized"
+    },
+    {
+      "category": "Cellular Processes",
+      "term": "Necrosis",
+      "definition": "Uncontrolled cell death"
+    },
+    {
+      "category": "Tumor Microenvironment",
+      "term": "Tumor Microenvironment (TME)",
+      "definition": "Surrounding environment of a tumor including cells, vessels, signals"
+    },
+    {
+      "category": "Tumor Microenvironment",
+      "term": "Hypoxia",
+      "definition": "Low oxygen condition in tumor tissue"
+    },
+    {
+      "category": "Tumor Microenvironment",
+      "term": "Stromal Cells",
+      "definition": "Supportive cells around tumor"
+    },
+    {
+      "category": "Tumor Microenvironment",
+      "term": "Immune Infiltration",
+      "definition": "Presence of immune cells within tumor"
+    },
+    {
+      "category": "Cancer Biology",
+      "term": "Clonal Expansion",
+      "definition": "Growth of cells from a single mutated cell"
+    },
+    {
+      "category": "Cancer Biology",
+      "term": "Heterogeneity",
+      "definition": "Diversity within tumor cells"
+    },
+    {
+      "category": "Cancer Biology",
+      "term": "Driver Mutation",
+      "definition": "Mutation contributing to cancer progression"
+    },
+    {
+      "category": "Cancer Biology",
+      "term": "Passenger Mutation",
+      "definition": "Mutation not contributing to cancer"
+    },
+    {
+      "category": "Diagnostics (Advanced)",
+      "term": "Liquid Biopsy",
+      "definition": "Detection of cancer via blood samples"
+    },
+    {
+      "category": "Diagnostics (Advanced)",
+      "term": "PET Scan",
+      "definition": "Imaging using radioactive tracers"
+    },
+    {
+      "category": "Diagnostics (Advanced)",
+      "term": "Immunohistochemistry (IHC)",
+      "definition": "Technique to detect proteins in tissue samples"
+    },
+    {
+      "category": "Diagnostics (Advanced)",
+      "term": "Genomic Sequencing",
+      "definition": "Analysis of DNA sequence for mutations"
+    },
+    {
+      "category": "Treatment (Advanced)",
+      "term": "Precision Medicine",
+      "definition": "Tailored treatment based on genetic profile"
+    },
+    {
+      "category": "Treatment (Advanced)",
+      "term": "CAR-T Cell Therapy",
+      "definition": "Engineered immune cells targeting cancer"
+    },
+    {
+      "category": "Treatment (Advanced)",
+      "term": "Checkpoint Inhibitors",
+      "definition": "Drugs that help immune system attack cancer"
+    },
+    {
+      "category": "Treatment (Advanced)",
+      "term": "Anti-angiogenic Therapy",
+      "definition": "Inhibits blood vessel formation in tumors"
+    },
+    {
+      "category": "Drug Response",
+      "term": "Drug Resistance",
+      "definition": "Reduced effectiveness of treatment"
+    },
+    {
+      "category": "Drug Response",
+      "term": "Multidrug Resistance (MDR)",
+      "definition": "Resistance to multiple drugs"
+    },
+    {
+      "category": "Drug Response",
+      "term": "Sensitivity",
+      "definition": "Responsiveness to therapy"
+    },
+    {
+      "category": "Epidemiology",
+      "term": "Incidence",
+      "definition": "Number of new cancer cases"
+    },
+    {
+      "category": "Epidemiology",
+      "term": "Prevalence",
+      "definition": "Total number of existing cases"
+    },
+    {
+      "category": "Epidemiology",
+      "term": "Mortality Rate",
+      "definition": "Number of deaths due to cancer"
+    },
+    {
+      "category": "Epidemiology",
+      "term": "Risk Factor",
+      "definition": "Attribute increasing cancer risk"
+    },
+    {
+      "category": "Screening & Prevention",
+      "term": "Screening",
+      "definition": "Early detection in asymptomatic individuals"
+    },
+    {
+      "category": "Screening & Prevention",
+      "term": "Vaccination",
+      "definition": "Prevention via vaccines (e.g., HPV vaccine)"
+    },
+    {
+      "category": "Screening & Prevention",
+      "term": "Chemoprevention",
+      "definition": "Use of drugs to prevent cancer"
+    },
+    {
+      "category": "Screening & Prevention",
+      "term": "Lifestyle Modification",
+      "definition": "Behavioral changes to reduce risk"
+    },
+    {
+      "category": "Clinical Trials",
+      "term": "Phase I Trial",
+      "definition": "Tests safety and dosage"
+    },
+    {
+      "category": "Clinical Trials",
+      "term": "Phase II Trial",
+      "definition": "Tests effectiveness and side effects"
+    },
+    {
+      "category": "Clinical Trials",
+      "term": "Phase III Trial",
+      "definition": "Compares new treatment with standard"
+    },
+    {
+      "category": "Clinical Trials",
+      "term": "Randomized Controlled Trial",
+      "definition": "Study with random assignment"
+    },
+    {
+      "category": "Survivorship",
+      "term": "Disease-Free Survival (DFS)",
+      "definition": "Time without signs of cancer after treatment"
+    },
+    {
+      "category": "Survivorship",
+      "term": "Progression-Free Survival",
+      "definition": "Time during which disease does not worsen"
+    },
+    {
+      "category": "Survivorship",
+      "term": "Quality of Life (QoL)",
+      "definition": "Patient's general well-being"
+    },
+    {
+      "category": "Survivorship",
+      "term": "Late Effects",
+      "definition": "Long-term side effects of treatment"
+    },
+    {
+      "category": "Subtypes",
+      "term": "Adenocarcinoma",
+      "definition": "Cancer arising from glandular tissue"
+    },
+    {
+      "category": "Subtypes",
+      "term": "Squamous Cell Carcinoma",
+      "definition": "Cancer from squamous epithelial cells"
+    },
+    {
+      "category": "Subtypes",
+      "term": "Basal Cell Carcinoma",
+      "definition": "Skin cancer from basal cells"
+    },
+    {
+      "category": "Subtypes",
+      "term": "Triple-Negative Breast Cancer (TNBC)",
+      "definition": "Breast cancer lacking ER, PR, HER2"
+    },
+    {
+      "category": "Subtypes",
+      "term": "Small Cell Lung Cancer (SCLC)",
+      "definition": "Aggressive lung cancer subtype"
+    },
+    {
+      "category": "Rare Tumors",
+      "term": "Neuroendocrine Tumor (NET)",
+      "definition": "Tumor from hormone-producing cells"
+    },
+    {
+      "category": "Rare Tumors",
+      "term": "Mesothelioma",
+      "definition": "Cancer of pleural lining"
+    },
+    {
+      "category": "Rare Tumors",
+      "term": "Medulloblastoma",
+      "definition": "Brain tumor common in children"
+    },
+    {
+      "category": "Biomarkers",
+      "term": "HER2",
+      "definition": "Protein overexpressed in some breast cancers"
+    },
+    {
+      "category": "Biomarkers",
+      "term": "EGFR",
+      "definition": "Receptor involved in cell growth signaling"
+    },
+    {
+      "category": "Biomarkers",
+      "term": "KRAS",
+      "definition": "Gene mutation in colorectal & lung cancer"
+    },
+    {
+      "category": "Biomarkers",
+      "term": "PD-L1",
+      "definition": "Immune checkpoint protein"
+    },
+    {
+      "category": "Biomarkers",
+      "term": "PSA",
+      "definition": "Marker for prostate cancer"
+    },
+    {
+      "category": "Genomics",
+      "term": "Tumor Mutational Burden (TMB)",
+      "definition": "Number of mutations in tumor DNA"
+    },
+    {
+      "category": "Genomics",
+      "term": "Microsatellite Instability (MSI)",
+      "definition": "Genetic hypermutability condition"
+    },
+    {
+      "category": "Toxicity",
+      "term": "Neutropenia",
+      "definition": "Low neutrophil count"
+    },
+    {
+      "category": "Toxicity",
+      "term": "Thrombocytopenia",
+      "definition": "Low platelet count"
+    },
+    {
+      "category": "Toxicity",
+      "term": "Anemia",
+      "definition": "Low red blood cells"
+    },
+    {
+      "category": "Side Effects",
+      "term": "Mucositis",
+      "definition": "Inflammation of mucous membranes"
+    },
+    {
+      "category": "Side Effects",
+      "term": "Alopecia",
+      "definition": "Hair loss due to treatment"
+    },
+    {
+      "category": "Side Effects",
+      "term": "Fatigue",
+      "definition": "Extreme tiredness"
+    },
+    {
+      "category": "Imaging",
+      "term": "Lesion",
+      "definition": "Abnormal tissue region"
+    },
+    {
+      "category": "Imaging",
+      "term": "Nodule",
+      "definition": "Small lump in tissue"
+    },
+    {
+      "category": "Imaging",
+      "term": "Mass Effect",
+      "definition": "Pressure from tumor on surrounding tissue"
+    },
+    {
+      "category": "Imaging",
+      "term": "Contrast Enhancement",
+      "definition": "Increased visibility using contrast agent"
+    },
+    {
+      "category": "Imaging",
+      "term": "Radiomics",
+      "definition": "Extraction of features from medical images"
+    }
+  ],
+  "symptoms": [
+    {
+      "cancer": "Breast Cancer",
+      "symptoms": "Lump in breast, nipple discharge, skin dimpling, breast pain, redness"
+    },
+    {
+      "cancer": "Lung Cancer",
+      "symptoms": "Persistent cough, coughing blood (haemoptysis), chest pain, shortness of breath, fatigue"
+    },
+    {
+      "cancer": "Colorectal Cancer",
+      "symptoms": "Blood in stool, abdominal pain, change in bowel habits, weight loss"
+    },
+    {
+      "cancer": "Prostate Cancer",
+      "symptoms": "Difficulty urinating, weak urine flow, blood in urine, pelvic discomfort"
+    },
+    {
+      "cancer": "Cervical Cancer",
+      "symptoms": "Abnormal vaginal bleeding, postcoital bleeding, foul discharge, pelvic pain"
+    },
+    {
+      "cancer": "Oral Cancer",
+      "symptoms": "Mouth ulcers non-healing, difficulty swallowing, white/red patches, jaw pain"
+    },
+    {
+      "cancer": "Liver Cancer",
+      "symptoms": "Jaundice, abdominal swelling (ascites), nausea, unexplained weight loss"
+    },
+    {
+      "cancer": "Pancreatic Cancer",
+      "symptoms": "Jaundice, back pain, digestive issues, sudden weight loss"
+    },
+    {
+      "cancer": "Stomach Cancer",
+      "symptoms": "Indigestion, stomach pain, nausea, loss of appetite, blood in vomit"
+    },
+    {
+      "cancer": "Brain Tumor",
+      "symptoms": "Headaches, seizures, vision problems, memory issues"
+    },
+    {
+      "cancer": "Skin Cancer (Melanoma)",
+      "symptoms": "Changing moles, irregular borders, color variation, itching"
+    },
+    {
+      "cancer": "Ovarian Cancer",
+      "symptoms": "Bloating, pelvic pain, early satiety, frequent urination"
+    },
+    {
+      "cancer": "Kidney Cancer",
+      "symptoms": "Blood in urine (hematuria), flank pain, fatigue, weight loss"
+    },
+    {
+      "cancer": "Bladder Cancer",
+      "symptoms": "Blood in urine, frequent urination, pelvic pain"
+    },
+    {
+      "cancer": "Thyroid Cancer",
+      "symptoms": "Neck lump, hoarseness, difficulty swallowing"
+    },
+    {
+      "cancer": "Leukemia",
+      "symptoms": "Fatigue, frequent infections, bleeding/bruising, fever"
+    },
+    {
+      "cancer": "Lymphoma",
+      "symptoms": "Swollen lymph nodes, night sweats, fever, weight loss"
+    },
+    {
+      "cancer": "Esophageal Cancer",
+      "symptoms": "Difficulty swallowing (dysphagia), chest pain, weight loss"
+    },
+    {
+      "cancer": "Gallbladder Cancer",
+      "symptoms": "Abdominal pain, jaundice, nausea"
+    },
+    {
+      "cancer": "Bone Cancer",
+      "symptoms": "Bone pain, swelling, fractures"
+    }
+  ],
+  "risk_factors": [
+    {
+      "cancer": "Breast Cancer",
+      "risk_factors": "BRCA1/BRCA2 mutations, hormonal imbalance, obesity, alcohol, late pregnancy"
+    },
+    {
+      "cancer": "Lung Cancer",
+      "risk_factors": "Smoking, air pollution, radon gas, occupational exposure (asbestos)"
+    },
+    {
+      "cancer": "Colorectal Cancer",
+      "risk_factors": "Low-fiber diet, processed meat, obesity, sedentary lifestyle, Lynch syndrome"
+    },
+    {
+      "cancer": "Prostate Cancer",
+      "risk_factors": "Age, family history, high-fat diet"
+    },
+    {
+      "cancer": "Cervical Cancer",
+      "risk_factors": "HPV infection (HPV 16, 18), early sexual activity, multiple partners, smoking"
+    },
+    {
+      "cancer": "Liver Cancer",
+      "risk_factors": "Hepatitis B/C, alcohol abuse, cirrhosis"
+    },
+    {
+      "cancer": "Stomach Cancer",
+      "risk_factors": "H. pylori infection, high salt diet, smoking"
+    },
+    {
+      "cancer": "Pancreatic Cancer",
+      "risk_factors": "Smoking, diabetes, obesity, chronic pancreatitis"
+    },
+    {
+      "cancer": "Skin Cancer (Melanoma)",
+      "risk_factors": "UV exposure, fair skin, tanning"
+    },
+    {
+      "cancer": "Ovarian Cancer",
+      "risk_factors": "BRCA mutation, age, infertility"
+    },
+    {
+      "cancer": "Oral Cancer",
+      "risk_factors": "Tobacco chewing (khaini, gutkha), alcohol, HPV, poor oral hygiene"
+    }
+  ],
+  "treatments": [
+    {
+      "cancer": "Breast Cancer",
+      "treatment_type": "Chemotherapy",
+      "medicine": "Doxorubicin",
+      "guidelines": "AC regimen (early-stage & metastatic)",
+      "side_effects": "Cardiotoxicity, nausea"
+    },
+    {
+      "cancer": "Breast Cancer",
+      "treatment_type": "Chemotherapy",
+      "medicine": "Paclitaxel",
+      "guidelines": "Adjuvant & neoadjuvant taxane",
+      "side_effects": "Neuropathy, alopecia"
+    },
+    {
+      "cancer": "Breast Cancer",
+      "treatment_type": "Hormone Therapy",
+      "medicine": "Tamoxifen",
+      "guidelines": "ER+ premenopausal (5-10 yrs)",
+      "side_effects": "Hot flashes, thrombosis risk"
+    },
+    {
+      "cancer": "Breast Cancer",
+      "treatment_type": "Targeted Therapy",
+      "medicine": "Trastuzumab (Herceptin)",
+      "guidelines": "HER2+ guideline standard",
+      "side_effects": "Cardiotoxicity"
+    },
+    {
+      "cancer": "Breast Cancer",
+      "treatment_type": "Surgery",
+      "medicine": "Lumpectomy / Mastectomy",
+      "guidelines": "Breast-conserving or total removal",
+      "side_effects": "Pain, lymphedema"
+    },
+    {
+      "cancer": "Lung Cancer (NSCLC)",
+      "treatment_type": "Chemotherapy",
+      "medicine": "Cisplatin + Pemetrexed",
+      "guidelines": "First-line platinum-based therapy",
+      "side_effects": "Nephrotoxicity, nausea"
+    },
+    {
+      "cancer": "Lung Cancer (NSCLC)",
+      "treatment_type": "Targeted Therapy",
+      "medicine": "Osimertinib",
+      "guidelines": "EGFR mutation-positive NSCLC",
+      "side_effects": "Diarrhea, skin rash"
+    },
+    {
+      "cancer": "Lung Cancer (NSCLC)",
+      "treatment_type": "Immunotherapy",
+      "medicine": "Pembrolizumab (Keytruda)",
+      "guidelines": "PD-L1 >= 50% first-line",
+      "side_effects": "Immune-related pneumonitis"
+    },
+    {
+      "cancer": "Cervical Cancer",
+      "treatment_type": "Chemoradiation",
+      "medicine": "Cisplatin + External Beam RT",
+      "guidelines": "Standard locally advanced Stage IB-IVA",
+      "side_effects": "Nausea, nephrotoxicity, fatigue"
+    },
+    {
+      "cancer": "Cervical Cancer",
+      "treatment_type": "Radiation Therapy",
+      "medicine": "Brachytherapy",
+      "guidelines": "Intracavitary radiation for cure",
+      "side_effects": "Vaginal irritation"
+    },
+    {
+      "cancer": "Cervical Cancer",
+      "treatment_type": "Surgery",
+      "medicine": "Radical Hysterectomy",
+      "guidelines": "Early stage (IA-IIA)",
+      "side_effects": "Bleeding, infection"
+    },
+    {
+      "cancer": "Oral Cancer",
+      "treatment_type": "Surgery",
+      "medicine": "Wide Local Excision / Neck Dissection",
+      "guidelines": "Primary curative for early-mid stage",
+      "side_effects": "Swallowing/speech recovery"
+    },
+    {
+      "cancer": "Oral Cancer",
+      "treatment_type": "Chemoradiation",
+      "medicine": "Cisplatin + Radiation",
+      "guidelines": "Standard concurrent for locally advanced",
+      "side_effects": "Severe mucositis, dry mouth"
+    },
+    {
+      "cancer": "Colorectal Cancer",
+      "treatment_type": "Chemotherapy",
+      "medicine": "FOLFOX (5-FU + Oxaliplatin)",
+      "guidelines": "Standard adjuvant and first-line",
+      "side_effects": "Peripheral neuropathy, diarrhea"
+    },
+    {
+      "cancer": "Colorectal Cancer",
+      "treatment_type": "Targeted Therapy",
+      "medicine": "Bevacizumab",
+      "guidelines": "Anti-VEGF with chemotherapy",
+      "side_effects": "Hypertension, bleeding risk"
+    },
+    {
+      "cancer": "Colorectal Cancer",
+      "treatment_type": "Surgery",
+      "medicine": "Colectomy / Total Mesorectal Excision",
+      "guidelines": "Primary curative resection",
+      "side_effects": "Infection, temporary stoma"
+    },
+    {
+      "cancer": "Ovarian Cancer",
+      "treatment_type": "Chemotherapy",
+      "medicine": "Carboplatin + Paclitaxel",
+      "guidelines": "First-line standard regimen",
+      "side_effects": "Myelosuppression, neuropathy"
+    },
+    {
+      "cancer": "Ovarian Cancer",
+      "treatment_type": "Targeted Therapy",
+      "medicine": "Olaparib",
+      "guidelines": "BRCA-mutation maintenance",
+      "side_effects": "Anemia, fatigue"
+    },
+    {
+      "cancer": "Ovarian Cancer",
+      "treatment_type": "Surgery",
+      "medicine": "Debulking / Cytoreductive Surgery",
+      "guidelines": "Removal of all visible tumor",
+      "side_effects": "Surgical recovery, hormone change"
+    }
+  ],
+  "diagnostics": [
+    {
+      "cancer": "Breast Cancer",
+      "subtype": "Ductal Carcinoma In Situ (DCIS)",
+      "method": "Mammography",
+      "category": "Imaging",
+      "description": "Low-dose X-ray to detect calcifications",
+      "sample": "None",
+      "stage": "Early (Stage 0)",
+      "purpose": "Screening",
+      "biomarkers": "None",
+      "invasiveness": "Non-invasive",
+      "turnaround": "Same day",
+      "risks": "Low radiation",
+      "follow_up": "Biopsy confirmation"
+    },
+    {
+      "cancer": "Breast Cancer",
+      "subtype": "Invasive Ductal Carcinoma (IDC)",
+      "method": "Core Needle Biopsy",
+      "category": "Pathology",
+      "description": "Tissue removal using needle",
+      "sample": "Tissue",
+      "stage": "All stages",
+      "purpose": "Confirm diagnosis",
+      "biomarkers": "ER, PR, HER2",
+      "invasiveness": "Minimally invasive",
+      "turnaround": "2-5 days",
+      "risks": "Bleeding, infection",
+      "follow_up": "Histopathology + treatment planning"
+    },
+    {
+      "cancer": "Breast Cancer",
+      "subtype": "Triple-Negative Breast Cancer (TNBC)",
+      "method": "Immunohistochemistry (IHC)",
+      "category": "Molecular",
+      "description": "Protein expression analysis in tumor cells",
+      "sample": "Tissue",
+      "stage": "All stages",
+      "purpose": "Subtype classification",
+      "biomarkers": "ER-, PR-, HER2-",
+      "invasiveness": "Minimally invasive",
+      "turnaround": "3-7 days",
+      "risks": "Lab processing",
+      "follow_up": "Chemotherapy planning"
+    },
+    {
+      "cancer": "Cervical Cancer",
+      "subtype": "Squamous Cell Carcinoma",
+      "method": "Pap Smear (Pap Test)",
+      "category": "Screening",
+      "description": "Microscopic examination of cervical cells",
+      "sample": "Cervical cells",
+      "stage": "Pre-cancer (CIN)",
+      "purpose": "Early detection",
+      "biomarkers": "Dysplastic cells",
+      "invasiveness": "Non-invasive",
+      "turnaround": "1-3 days",
+      "risks": "Mild spotting",
+      "follow_up": "HPV DNA / Colposcopy"
+    },
+    {
+      "cancer": "Cervical Cancer",
+      "subtype": "Adenocarcinoma",
+      "method": "HPV DNA Test",
+      "category": "Molecular Screening",
+      "description": "Detects high-risk HPV strains (HPV 16, 18)",
+      "sample": "Cervical swab",
+      "stage": "Early",
+      "purpose": "Identify viral etiology",
+      "biomarkers": "HPV 16, 18",
+      "invasiveness": "Non-invasive",
+      "turnaround": "1-5 days",
+      "risks": "Minimal discomfort",
+      "follow_up": "Colposcopy if positive"
+    },
+    {
+      "cancer": "Cervical Cancer",
+      "subtype": "All subtypes",
+      "method": "Colposcopy",
+      "category": "Diagnostic",
+      "description": "Visual examination using magnification instrument",
+      "sample": "Cervix visual",
+      "stage": "Pre-cancer / Early",
+      "purpose": "Confirm abnormal lesions",
+      "biomarkers": "Acetowhite epithelium",
+      "invasiveness": "Minimally invasive",
+      "turnaround": "Same day",
+      "risks": "Mild cramping",
+      "follow_up": "Biopsy if abnormal"
+    },
+    {
+      "cancer": "Oral Cancer",
+      "subtype": "Oral Squamous Cell Carcinoma (OSCC)",
+      "method": "Clinical Oral Examination",
+      "category": "Screening",
+      "description": "Visual inspection and palpation of oral cavity",
+      "sample": "None",
+      "stage": "Early",
+      "purpose": "Detect white/red lesions and induration",
+      "biomarkers": "None",
+      "invasiveness": "Non-invasive",
+      "turnaround": "Immediate",
+      "risks": "None",
+      "follow_up": "Incisional biopsy"
+    },
+    {
+      "cancer": "Oral Cancer",
+      "subtype": "OSCC",
+      "method": "Incisional / Excisional Biopsy",
+      "category": "Confirmatory",
+      "description": "Tissue removal for microscopic histopathology",
+      "sample": "Tissue",
+      "stage": "All stages",
+      "purpose": "Confirm malignancy and grade",
+      "biomarkers": "p53, Ki-67",
+      "invasiveness": "Invasive",
+      "turnaround": "3-7 days",
+      "risks": "Bleeding, local pain",
+      "follow_up": "Staging and treatment planning"
+    },
+    {
+      "cancer": "Oral Cancer",
+      "subtype": "OSCC",
+      "method": "CT Scan (Neck/Chest)",
+      "category": "Imaging",
+      "description": "Cross-sectional imaging of neck and mandible",
+      "sample": "None",
+      "stage": "Stage II-IV",
+      "purpose": "Assess bone invasion & lymph nodes",
+      "biomarkers": "None",
+      "invasiveness": "Non-invasive",
+      "turnaround": "Same day",
+      "risks": "Radiation exposure",
+      "follow_up": "Plan surgery / radiotherapy"
+    },
+    {
+      "cancer": "Ovarian Cancer",
+      "subtype": "Epithelial Ovarian Cancer",
+      "method": "CA-125 Blood Test",
+      "category": "Blood Test",
+      "description": "Measures CA-125 protein levels",
+      "sample": "Blood",
+      "stage": "Early-Advanced",
+      "purpose": "Monitoring & risk assessment",
+      "biomarkers": "CA-125",
+      "invasiveness": "Non-invasive",
+      "turnaround": "1-2 days",
+      "risks": "False positives",
+      "follow_up": "Transvaginal ultrasound"
+    },
+    {
+      "cancer": "Ovarian Cancer",
+      "subtype": "All Subtypes",
+      "method": "Transvaginal Ultrasound (TVUS)",
+      "category": "Imaging",
+      "description": "High frequency sound waves visualize ovaries",
+      "sample": "Imaging",
+      "stage": "Early-Mid",
+      "purpose": "Detect complex ovarian cysts/masses",
+      "biomarkers": "None",
+      "invasiveness": "Minimally invasive",
+      "turnaround": "Same day",
+      "risks": "Mild discomfort",
+      "follow_up": "CT scan / Surgery"
+    },
+    {
+      "cancer": "Colorectal Cancer",
+      "subtype": "Adenocarcinoma",
+      "method": "Colonoscopy",
+      "category": "Endoscopic",
+      "description": "Visual examination of entire colon with biopsy",
+      "sample": "Tissue biopsy",
+      "stage": "All stages",
+      "purpose": "Direct detection and polypectomy",
+      "biomarkers": "None",
+      "invasiveness": "Invasive",
+      "turnaround": "Same day",
+      "risks": "Perforation (rare)",
+      "follow_up": "Histopathology"
+    },
+    {
+      "cancer": "Colorectal Cancer",
+      "subtype": "Adenocarcinoma",
+      "method": "FIT (Fecal Immunochemical Test)",
+      "category": "Screening",
+      "description": "Detects human hemoglobin in stool",
+      "sample": "Stool",
+      "stage": "Early stage",
+      "purpose": "Screening for hidden GI bleeding",
+      "biomarkers": "Human hemoglobin",
+      "invasiveness": "Non-invasive",
+      "turnaround": "1 day",
+      "risks": "Missed flat polyps",
+      "follow_up": "Colonoscopy if positive"
+    },
+    {
+      "cancer": "Lung Cancer",
+      "subtype": "NSCLC (Adenocarcinoma)",
+      "method": "Low-Dose CT Scan (LDCT)",
+      "category": "Imaging",
+      "description": "Cross-sectional X-ray for pulmonary nodules",
+      "sample": "None",
+      "stage": "Early-Advanced",
+      "purpose": "Screening in high-risk smokers",
+      "biomarkers": "Nodule characteristics",
+      "invasiveness": "Non-invasive",
+      "turnaround": "Same day",
+      "risks": "Radiation exposure",
+      "follow_up": "Bronchoscopy / Biopsy"
+    },
+    {
+      "cancer": "Lung Cancer",
+      "subtype": "NSCLC / SCLC",
+      "method": "Bronchoscopy with Biopsy",
+      "category": "Endoscopic",
+      "description": "Camera tube enters airways for visualization and biopsy",
+      "sample": "Tissue/Brushing",
+      "stage": "All stages",
+      "purpose": "Direct tumor sampling",
+      "biomarkers": "EGFR, ALK, PD-L1",
+      "invasiveness": "Minimally invasive",
+      "turnaround": "1-3 days",
+      "risks": "Cough, bleeding",
+      "follow_up": "Molecular profiling"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+Section,Category_or_Cancer,Term_or_Subtype,Detail_or_Description,Guideline_or_Action,SideEffects_or_Risks
+Basic_Glossary,Basic Concepts,Oncology,Study of cancer,Educational / Clinical Reference,N/A
+Basic_Glossary,Basic Concepts,Neoplasm,Abnormal mass of tissue,Educational / Clinical Reference,N/A
+Basic_Glossary,Basic Concepts,Tumor,Swelling or mass; may be benign or malignant,Educational / Clinical Reference,N/A
+Basic_Glossary,Basic Concepts,Benign,Non-cancerous growth that does not spread,Educational / Clinical Reference,N/A
+Basic_Glossary,Basic Concepts,Malignant,Cancerous growth capable of invasion and metastasis,Educational / Clinical Reference,N/A
+Basic_Glossary,Basic Concepts,Carcinogenesis,Process of cancer development,Educational / Clinical Reference,N/A
+Basic_Glossary,Types of Cancer,Carcinoma,Cancer originating in epithelial cells,Educational / Clinical Reference,N/A
+Basic_Glossary,Types of Cancer,Sarcoma,"Cancer of connective tissues (bone, muscle)",Educational / Clinical Reference,N/A
+Basic_Glossary,Types of Cancer,Leukemia,Cancer of blood-forming tissues,Educational / Clinical Reference,N/A
+Basic_Glossary,Types of Cancer,Lymphoma,Cancer of the lymphatic system,Educational / Clinical Reference,N/A
+Basic_Glossary,Types of Cancer,Melanoma,Cancer of melanocytes (skin cells),Educational / Clinical Reference,N/A
+Basic_Glossary,Types of Cancer,Glioma,Tumor of glial cells in the brain,Educational / Clinical Reference,N/A
+Basic_Glossary,Diagnosis,Biopsy,Removal of tissue for examination,Educational / Clinical Reference,N/A
+Basic_Glossary,Diagnosis,Histopathology,Study of diseased tissue under a microscope,Educational / Clinical Reference,N/A
+Basic_Glossary,Diagnosis,Cytology,Study of individual cells,Educational / Clinical Reference,N/A
+Basic_Glossary,Diagnosis,Mammography,Imaging test for breast cancer detection,Educational / Clinical Reference,N/A
+Basic_Glossary,Diagnosis,CT Scan,Imaging using X-rays to create detailed cross-sections,Educational / Clinical Reference,N/A
+Basic_Glossary,Diagnosis,MRI,Imaging using magnetic fields and radio waves,Educational / Clinical Reference,N/A
+Basic_Glossary,Staging & Grading,TNM Staging,"Classification based on Tumor size, Node involvement, Metastasis",Educational / Clinical Reference,N/A
+Basic_Glossary,Staging & Grading,Grade,Describes how abnormal cancer cells look,Educational / Clinical Reference,N/A
+Basic_Glossary,Staging & Grading,Stage,Extent of cancer spread,Educational / Clinical Reference,N/A
+Basic_Glossary,Staging & Grading,Metastasis,Spread of cancer to distant organs,Educational / Clinical Reference,N/A
+Basic_Glossary,Staging & Grading,Localized,Cancer confined to origin,Educational / Clinical Reference,N/A
+Basic_Glossary,Staging & Grading,Advanced,Cancer that has spread significantly,Educational / Clinical Reference,N/A
+Basic_Glossary,Treatment,Chemotherapy,Use of drugs to kill cancer cells,Educational / Clinical Reference,N/A
+Basic_Glossary,Treatment,Radiotherapy,Use of radiation to destroy cancer cells,Educational / Clinical Reference,N/A
+Basic_Glossary,Treatment,Immunotherapy,Treatment that boosts immune system to fight cancer,Educational / Clinical Reference,N/A
+Basic_Glossary,Treatment,Targeted Therapy,Drugs targeting specific cancer cell mechanisms,Educational / Clinical Reference,N/A
+Basic_Glossary,Treatment,Surgery,Physical removal of tumor,Educational / Clinical Reference,N/A
+Basic_Glossary,Treatment,Hormone Therapy,Treatment blocking hormones that fuel certain cancers,Educational / Clinical Reference,N/A
+Basic_Glossary,Prognosis & Outcomes,Remission,Reduction or disappearance of cancer signs,Educational / Clinical Reference,N/A
+Basic_Glossary,Prognosis & Outcomes,Recurrence,Return of cancer after treatment,Educational / Clinical Reference,N/A
+Basic_Glossary,Prognosis & Outcomes,Survival Rate,Percentage of patients alive after a certain time,Educational / Clinical Reference,N/A
+Basic_Glossary,Prognosis & Outcomes,Palliative Care,Care focused on symptom relief and quality of life,Educational / Clinical Reference,N/A
+Basic_Glossary,Prognosis & Outcomes,Curative Treatment,Treatment aimed at completely eliminating cancer,Educational / Clinical Reference,N/A
+Basic_Glossary,Molecular & Genetic,Oncogene,Gene that can cause cancer when mutated,Educational / Clinical Reference,N/A
+Basic_Glossary,Molecular & Genetic,Tumor Suppressor Gene,Gene that regulates cell growth,Educational / Clinical Reference,N/A
+Basic_Glossary,Molecular & Genetic,Mutation,Change in DNA sequence,Educational / Clinical Reference,N/A
+Basic_Glossary,Molecular & Genetic,Biomarker,Biological molecule indicating disease,Educational / Clinical Reference,N/A
+Basic_Glossary,Molecular & Genetic,BRCA1/BRCA2,Genes associated with breast and ovarian cancer risk,Educational / Clinical Reference,N/A
+Basic_Glossary,Cellular Processes,Apoptosis,Programmed cell death,Educational / Clinical Reference,N/A
+Basic_Glossary,Cellular Processes,Proliferation,Rapid increase in cell number,Educational / Clinical Reference,N/A
+Basic_Glossary,Cellular Processes,Angiogenesis,Formation of new blood vessels to supply tumors,Educational / Clinical Reference,N/A
+Basic_Glossary,Cellular Processes,Differentiation,Process by which cells become specialized,Educational / Clinical Reference,N/A
+Basic_Glossary,Cellular Processes,Necrosis,Uncontrolled cell death,Educational / Clinical Reference,N/A
+Basic_Glossary,Tumor Microenvironment,Tumor Microenvironment (TME),"Surrounding environment of a tumor including cells, vessels, signals",Educational / Clinical Reference,N/A
+Basic_Glossary,Tumor Microenvironment,Hypoxia,Low oxygen condition in tumor tissue,Educational / Clinical Reference,N/A
+Basic_Glossary,Tumor Microenvironment,Stromal Cells,Supportive cells around tumor,Educational / Clinical Reference,N/A
+Basic_Glossary,Tumor Microenvironment,Immune Infiltration,Presence of immune cells within tumor,Educational / Clinical Reference,N/A
+Basic_Glossary,Cancer Biology,Clonal Expansion,Growth of cells from a single mutated cell,Educational / Clinical Reference,N/A
+Basic_Glossary,Cancer Biology,Heterogeneity,Diversity within tumor cells,Educational / Clinical Reference,N/A
+Basic_Glossary,Cancer Biology,Driver Mutation,Mutation contributing to cancer progression,Educational / Clinical Reference,N/A
+Basic_Glossary,Cancer Biology,Passenger Mutation,Mutation not contributing to cancer,Educational / Clinical Reference,N/A
+Basic_Glossary,Diagnostics (Advanced),Liquid Biopsy,Detection of cancer via blood samples,Educational / Clinical Reference,N/A
+Basic_Glossary,Diagnostics (Advanced),PET Scan,Imaging using radioactive tracers,Educational / Clinical Reference,N/A
+Basic_Glossary,Diagnostics (Advanced),Immunohistochemistry (IHC),Technique to detect proteins in tissue samples,Educational / Clinical Reference,N/A
+Basic_Glossary,Diagnostics (Advanced),Genomic Sequencing,Analysis of DNA sequence for mutations,Educational / Clinical Reference,N/A
+Basic_Glossary,Treatment (Advanced),Precision Medicine,Tailored treatment based on genetic profile,Educational / Clinical Reference,N/A
+Basic_Glossary,Treatment (Advanced),CAR-T Cell Therapy,Engineered immune cells targeting cancer,Educational / Clinical Reference,N/A
+Basic_Glossary,Treatment (Advanced),Checkpoint Inhibitors,Drugs that help immune system attack cancer,Educational / Clinical Reference,N/A
+Basic_Glossary,Treatment (Advanced),Anti-angiogenic Therapy,Inhibits blood vessel formation in tumors,Educational / Clinical Reference,N/A
+Basic_Glossary,Drug Response,Drug Resistance,Reduced effectiveness of treatment,Educational / Clinical Reference,N/A
+Basic_Glossary,Drug Response,Multidrug Resistance (MDR),Resistance to multiple drugs,Educational / Clinical Reference,N/A
+Basic_Glossary,Drug Response,Sensitivity,Responsiveness to therapy,Educational / Clinical Reference,N/A
+Basic_Glossary,Epidemiology,Incidence,Number of new cancer cases,Educational / Clinical Reference,N/A
+Basic_Glossary,Epidemiology,Prevalence,Total number of existing cases,Educational / Clinical Reference,N/A
+Basic_Glossary,Epidemiology,Mortality Rate,Number of deaths due to cancer,Educational / Clinical Reference,N/A
+Basic_Glossary,Epidemiology,Risk Factor,Attribute increasing cancer risk,Educational / Clinical Reference,N/A
+Basic_Glossary,Screening & Prevention,Screening,Early detection in asymptomatic individuals,Educational / Clinical Reference,N/A
+Basic_Glossary,Screening & Prevention,Vaccination,"Prevention via vaccines (e.g., HPV vaccine)",Educational / Clinical Reference,N/A
+Basic_Glossary,Screening & Prevention,Chemoprevention,Use of drugs to prevent cancer,Educational / Clinical Reference,N/A
+Basic_Glossary,Screening & Prevention,Lifestyle Modification,Behavioral changes to reduce risk,Educational / Clinical Reference,N/A
+Basic_Glossary,Clinical Trials,Phase I Trial,Tests safety and dosage,Educational / Clinical Reference,N/A
+Basic_Glossary,Clinical Trials,Phase II Trial,Tests effectiveness and side effects,Educational / Clinical Reference,N/A
+Basic_Glossary,Clinical Trials,Phase III Trial,Compares new treatment with standard,Educational / Clinical Reference,N/A
+Basic_Glossary,Clinical Trials,Randomized Controlled Trial,Study with random assignment,Educational / Clinical Reference,N/A
+Basic_Glossary,Survivorship,Disease-Free Survival (DFS),Time without signs of cancer after treatment,Educational / Clinical Reference,N/A
+Basic_Glossary,Survivorship,Progression-Free Survival,Time during which disease does not worsen,Educational / Clinical Reference,N/A
+Basic_Glossary,Survivorship,Quality of Life (QoL),Patient's general well-being,Educational / Clinical Reference,N/A
+Basic_Glossary,Survivorship,Late Effects,Long-term side effects of treatment,Educational / Clinical Reference,N/A
+Basic_Glossary,Subtypes,Adenocarcinoma,Cancer arising from glandular tissue,Educational / Clinical Reference,N/A
+Basic_Glossary,Subtypes,Squamous Cell Carcinoma,Cancer from squamous epithelial cells,Educational / Clinical Reference,N/A
+Basic_Glossary,Subtypes,Basal Cell Carcinoma,Skin cancer from basal cells,Educational / Clinical Reference,N/A
+Basic_Glossary,Subtypes,Triple-Negative Breast Cancer (TNBC),"Breast cancer lacking ER, PR, HER2",Educational / Clinical Reference,N/A
+Basic_Glossary,Subtypes,Small Cell Lung Cancer (SCLC),Aggressive lung cancer subtype,Educational / Clinical Reference,N/A
+Basic_Glossary,Rare Tumors,Neuroendocrine Tumor (NET),Tumor from hormone-producing cells,Educational / Clinical Reference,N/A
+Basic_Glossary,Rare Tumors,Mesothelioma,Cancer of pleural lining,Educational / Clinical Reference,N/A
+Basic_Glossary,Rare Tumors,Medulloblastoma,Brain tumor common in children,Educational / Clinical Reference,N/A
+Basic_Glossary,Biomarkers,HER2,Protein overexpressed in some breast cancers,Educational / Clinical Reference,N/A
+Basic_Glossary,Biomarkers,EGFR,Receptor involved in cell growth signaling,Educational / Clinical Reference,N/A
+Basic_Glossary,Biomarkers,KRAS,Gene mutation in colorectal & lung cancer,Educational / Clinical Reference,N/A
+Basic_Glossary,Biomarkers,PD-L1,Immune checkpoint protein,Educational / Clinical Reference,N/A
+Basic_Glossary,Biomarkers,PSA,Marker for prostate cancer,Educational / Clinical Reference,N/A
+Basic_Glossary,Genomics,Tumor Mutational Burden (TMB),Number of mutations in tumor DNA,Educational / Clinical Reference,N/A
+Basic_Glossary,Genomics,Microsatellite Instability (MSI),Genetic hypermutability condition,Educational / Clinical Reference,N/A
+Basic_Glossary,Toxicity,Neutropenia,Low neutrophil count,Educational / Clinical Reference,N/A
+Basic_Glossary,Toxicity,Thrombocytopenia,Low platelet count,Educational / Clinical Reference,N/A
+Basic_Glossary,Toxicity,Anemia,Low red blood cells,Educational / Clinical Reference,N/A
+Basic_Glossary,Side Effects,Mucositis,Inflammation of mucous membranes,Educational / Clinical Reference,N/A
+Basic_Glossary,Side Effects,Alopecia,Hair loss due to treatment,Educational / Clinical Reference,N/A
+Basic_Glossary,Side Effects,Fatigue,Extreme tiredness,Educational / Clinical Reference,N/A
+Basic_Glossary,Imaging,Lesion,Abnormal tissue region,Educational / Clinical Reference,N/A
+Basic_Glossary,Imaging,Nodule,Small lump in tissue,Educational / Clinical Reference,N/A
+Basic_Glossary,Imaging,Mass Effect,Pressure from tumor on surrounding tissue,Educational / Clinical Reference,N/A
+Basic_Glossary,Imaging,Contrast Enhancement,Increased visibility using contrast agent,Educational / Clinical Reference,N/A
+Basic_Glossary,Imaging,Radiomics,Extraction of features from medical images,Educational / Clinical Reference,N/A
+Symptoms,Breast Cancer,Common Symptoms,"Lump in breast, nipple discharge, skin dimpling, breast pain, redness",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Lung Cancer,Common Symptoms,"Persistent cough, coughing blood (haemoptysis), chest pain, shortness of breath, fatigue",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Colorectal Cancer,Common Symptoms,"Blood in stool, abdominal pain, change in bowel habits, weight loss",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Prostate Cancer,Common Symptoms,"Difficulty urinating, weak urine flow, blood in urine, pelvic discomfort",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Cervical Cancer,Common Symptoms,"Abnormal vaginal bleeding, postcoital bleeding, foul discharge, pelvic pain",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Oral Cancer,Common Symptoms,"Mouth ulcers non-healing, difficulty swallowing, white/red patches, jaw pain",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Liver Cancer,Common Symptoms,"Jaundice, abdominal swelling (ascites), nausea, unexplained weight loss",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Pancreatic Cancer,Common Symptoms,"Jaundice, back pain, digestive issues, sudden weight loss",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Stomach Cancer,Common Symptoms,"Indigestion, stomach pain, nausea, loss of appetite, blood in vomit",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Brain Tumor,Common Symptoms,"Headaches, seizures, vision problems, memory issues",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Skin Cancer (Melanoma),Common Symptoms,"Changing moles, irregular borders, color variation, itching",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Ovarian Cancer,Common Symptoms,"Bloating, pelvic pain, early satiety, frequent urination",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Kidney Cancer,Common Symptoms,"Blood in urine (hematuria), flank pain, fatigue, weight loss",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Bladder Cancer,Common Symptoms,"Blood in urine, frequent urination, pelvic pain",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Thyroid Cancer,Common Symptoms,"Neck lump, hoarseness, difficulty swallowing",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Leukemia,Common Symptoms,"Fatigue, frequent infections, bleeding/bruising, fever",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Lymphoma,Common Symptoms,"Swollen lymph nodes, night sweats, fever, weight loss",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Esophageal Cancer,Common Symptoms,"Difficulty swallowing (dysphagia), chest pain, weight loss",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Gallbladder Cancer,Common Symptoms,"Abdominal pain, jaundice, nausea",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Symptoms,Bone Cancer,Common Symptoms,"Bone pain, swelling, fractures",Report to Primary Health Centre / Medical Officer,Risk of delayed diagnosis
+Risk_Factors,Breast Cancer,Major Risk Factors,"BRCA1/BRCA2 mutations, hormonal imbalance, obesity, alcohol, late pregnancy",Screening & Lifestyle Counseling,Increased oncologic susceptibility
+Risk_Factors,Lung Cancer,Major Risk Factors,"Smoking, air pollution, radon gas, occupational exposure (asbestos)",Screening & Lifestyle Counseling,Increased oncologic susceptibility
+Risk_Factors,Colorectal Cancer,Major Risk Factors,"Low-fiber diet, processed meat, obesity, sedentary lifestyle, Lynch syndrome",Screening & Lifestyle Counseling,Increased oncologic susceptibility
+Risk_Factors,Prostate Cancer,Major Risk Factors,"Age, family history, high-fat diet",Screening & Lifestyle Counseling,Increased oncologic susceptibility
+Risk_Factors,Cervical Cancer,Major Risk Factors,"HPV infection (HPV 16, 18), early sexual activity, multiple partners, smoking",Screening & Lifestyle Counseling,Increased oncologic susceptibility
+Risk_Factors,Liver Cancer,Major Risk Factors,"Hepatitis B/C, alcohol abuse, cirrhosis",Screening & Lifestyle Counseling,Increased oncologic susceptibility
+Risk_Factors,Stomach Cancer,Major Risk Factors,"H. pylori infection, high salt diet, smoking",Screening & Lifestyle Counseling,Increased oncologic susceptibility
+Risk_Factors,Pancreatic Cancer,Major Risk Factors,"Smoking, diabetes, obesity, chronic pancreatitis",Screening & Lifestyle Counseling,Increased oncologic susceptibility
+Risk_Factors,Skin Cancer (Melanoma),Major Risk Factors,"UV exposure, fair skin, tanning",Screening & Lifestyle Counseling,Increased oncologic susceptibility
+Risk_Factors,Ovarian Cancer,Major Risk Factors,"BRCA mutation, age, infertility",Screening & Lifestyle Counseling,Increased oncologic susceptibility
+Risk_Factors,Oral Cancer,Major Risk Factors,"Tobacco chewing (khaini, gutkha), alcohol, HPV, poor oral hygiene",Screening & Lifestyle Counseling,Increased oncologic susceptibility
+Treatment_Protocols,Breast Cancer,Chemotherapy - Doxorubicin,AC regimen (early-stage & metastatic),Administer per oncologist protocol,"Cardiotoxicity, nausea"
+Treatment_Protocols,Breast Cancer,Chemotherapy - Paclitaxel,Adjuvant & neoadjuvant taxane,Administer per oncologist protocol,"Neuropathy, alopecia"
+Treatment_Protocols,Breast Cancer,Hormone Therapy - Tamoxifen,ER+ premenopausal (5-10 yrs),Administer per oncologist protocol,"Hot flashes, thrombosis risk"
+Treatment_Protocols,Breast Cancer,Targeted Therapy - Trastuzumab (Herceptin),HER2+ guideline standard,Administer per oncologist protocol,Cardiotoxicity
+Treatment_Protocols,Breast Cancer,Surgery - Lumpectomy / Mastectomy,Breast-conserving or total removal,Administer per oncologist protocol,"Pain, lymphedema"
+Treatment_Protocols,Lung Cancer (NSCLC),Chemotherapy - Cisplatin + Pemetrexed,First-line platinum-based therapy,Administer per oncologist protocol,"Nephrotoxicity, nausea"
+Treatment_Protocols,Lung Cancer (NSCLC),Targeted Therapy - Osimertinib,EGFR mutation-positive NSCLC,Administer per oncologist protocol,"Diarrhea, skin rash"
+Treatment_Protocols,Lung Cancer (NSCLC),Immunotherapy - Pembrolizumab (Keytruda),PD-L1 >= 50% first-line,Administer per oncologist protocol,Immune-related pneumonitis
+Treatment_Protocols,Cervical Cancer,Chemoradiation - Cisplatin + External Beam RT,Standard locally advanced Stage IB-IVA,Administer per oncologist protocol,"Nausea, nephrotoxicity, fatigue"
+Treatment_Protocols,Cervical Cancer,Radiation Therapy - Brachytherapy,Intracavitary radiation for cure,Administer per oncologist protocol,Vaginal irritation
+Treatment_Protocols,Cervical Cancer,Surgery - Radical Hysterectomy,Early stage (IA-IIA),Administer per oncologist protocol,"Bleeding, infection"
+Treatment_Protocols,Oral Cancer,Surgery - Wide Local Excision / Neck Dissection,Primary curative for early-mid stage,Administer per oncologist protocol,Swallowing/speech recovery
+Treatment_Protocols,Oral Cancer,Chemoradiation - Cisplatin + Radiation,Standard concurrent for locally advanced,Administer per oncologist protocol,"Severe mucositis, dry mouth"
+Treatment_Protocols,Colorectal Cancer,Chemotherapy - FOLFOX (5-FU + Oxaliplatin),Standard adjuvant and first-line,Administer per oncologist protocol,"Peripheral neuropathy, diarrhea"
+Treatment_Protocols,Colorectal Cancer,Targeted Therapy - Bevacizumab,Anti-VEGF with chemotherapy,Administer per oncologist protocol,"Hypertension, bleeding risk"
+Treatment_Protocols,Colorectal Cancer,Surgery - Colectomy / Total Mesorectal Excision,Primary curative resection,Administer per oncologist protocol,"Infection, temporary stoma"
+Treatment_Protocols,Ovarian Cancer,Chemotherapy - Carboplatin + Paclitaxel,First-line standard regimen,Administer per oncologist protocol,"Myelosuppression, neuropathy"
+Treatment_Protocols,Ovarian Cancer,Targeted Therapy - Olaparib,BRCA-mutation maintenance,Administer per oncologist protocol,"Anemia, fatigue"
+Treatment_Protocols,Ovarian Cancer,Surgery - Debulking / Cytoreductive Surgery,Removal of all visible tumor,Administer per oncologist protocol,"Surgical recovery, hormone change"
+Diagnostic_Methods,Breast Cancer,Mammography (Ductal Carcinoma In Situ (DCIS)),Low-dose X-ray to detect calcifications | Sample: None | Stage: Early (Stage 0) | Biomarkers: None,Purpose: Screening | Follow-up: Biopsy confirmation,Invasiveness: Non-invasive | Turnaround: Same day | Risks: Low radiation
+Diagnostic_Methods,Breast Cancer,Core Needle Biopsy (Invasive Ductal Carcinoma (IDC)),"Tissue removal using needle | Sample: Tissue | Stage: All stages | Biomarkers: ER, PR, HER2",Purpose: Confirm diagnosis | Follow-up: Histopathology + treatment planning,"Invasiveness: Minimally invasive | Turnaround: 2-5 days | Risks: Bleeding, infection"
+Diagnostic_Methods,Breast Cancer,Immunohistochemistry (IHC) (Triple-Negative Breast Cancer (TNBC)),"Protein expression analysis in tumor cells | Sample: Tissue | Stage: All stages | Biomarkers: ER-, PR-, HER2-",Purpose: Subtype classification | Follow-up: Chemotherapy planning,Invasiveness: Minimally invasive | Turnaround: 3-7 days | Risks: Lab processing
+Diagnostic_Methods,Cervical Cancer,Pap Smear (Pap Test) (Squamous Cell Carcinoma),Microscopic examination of cervical cells | Sample: Cervical cells | Stage: Pre-cancer (CIN) | Biomarkers: Dysplastic cells,Purpose: Early detection | Follow-up: HPV DNA / Colposcopy,Invasiveness: Non-invasive | Turnaround: 1-3 days | Risks: Mild spotting
+Diagnostic_Methods,Cervical Cancer,HPV DNA Test (Adenocarcinoma),"Detects high-risk HPV strains (HPV 16, 18) | Sample: Cervical swab | Stage: Early | Biomarkers: HPV 16, 18",Purpose: Identify viral etiology | Follow-up: Colposcopy if positive,Invasiveness: Non-invasive | Turnaround: 1-5 days | Risks: Minimal discomfort
+Diagnostic_Methods,Cervical Cancer,Colposcopy (All subtypes),Visual examination using magnification instrument | Sample: Cervix visual | Stage: Pre-cancer / Early | Biomarkers: Acetowhite epithelium,Purpose: Confirm abnormal lesions | Follow-up: Biopsy if abnormal,Invasiveness: Minimally invasive | Turnaround: Same day | Risks: Mild cramping
+Diagnostic_Methods,Oral Cancer,Clinical Oral Examination (Oral Squamous Cell Carcinoma (OSCC)),Visual inspection and palpation of oral cavity | Sample: None | Stage: Early | Biomarkers: None,Purpose: Detect white/red lesions and induration | Follow-up: Incisional biopsy,Invasiveness: Non-invasive | Turnaround: Immediate | Risks: None
+Diagnostic_Methods,Oral Cancer,Incisional / Excisional Biopsy (OSCC),"Tissue removal for microscopic histopathology | Sample: Tissue | Stage: All stages | Biomarkers: p53, Ki-67",Purpose: Confirm malignancy and grade | Follow-up: Staging and treatment planning,"Invasiveness: Invasive | Turnaround: 3-7 days | Risks: Bleeding, local pain"
+Diagnostic_Methods,Oral Cancer,CT Scan (Neck/Chest) (OSCC),Cross-sectional imaging of neck and mandible | Sample: None | Stage: Stage II-IV | Biomarkers: None,Purpose: Assess bone invasion & lymph nodes | Follow-up: Plan surgery / radiotherapy,Invasiveness: Non-invasive | Turnaround: Same day | Risks: Radiation exposure
+Diagnostic_Methods,Ovarian Cancer,CA-125 Blood Test (Epithelial Ovarian Cancer),Measures CA-125 protein levels | Sample: Blood | Stage: Early-Advanced | Biomarkers: CA-125,Purpose: Monitoring & risk assessment | Follow-up: Transvaginal ultrasound,Invasiveness: Non-invasive | Turnaround: 1-2 days | Risks: False positives
+Diagnostic_Methods,Ovarian Cancer,Transvaginal Ultrasound (TVUS) (All Subtypes),High frequency sound waves visualize ovaries | Sample: Imaging | Stage: Early-Mid | Biomarkers: None,Purpose: Detect complex ovarian cysts/masses | Follow-up: CT scan / Surgery,Invasiveness: Minimally invasive | Turnaround: Same day | Risks: Mild discomfort
+Diagnostic_Methods,Colorectal Cancer,Colonoscopy (Adenocarcinoma),Visual examination of entire colon with biopsy | Sample: Tissue biopsy | Stage: All stages | Biomarkers: None,Purpose: Direct detection and polypectomy | Follow-up: Histopathology,Invasiveness: Invasive | Turnaround: Same day | Risks: Perforation (rare)
+Diagnostic_Methods,Colorectal Cancer,FIT (Fecal Immunochemical Test) (Adenocarcinoma),Detects human hemoglobin in stool | Sample: Stool | Stage: Early stage | Biomarkers: Human hemoglobin,Purpose: Screening for hidden GI bleeding | Follow-up: Colonoscopy if positive,Invasiveness: Non-invasive | Turnaround: 1 day | Risks: Missed flat polyps
+Diagnostic_Methods,Lung Cancer,Low-Dose CT Scan (LDCT) (NSCLC (Adenocarcinoma)),Cross-sectional X-ray for pulmonary nodules | Sample: None | Stage: Early-Advanced | Biomarkers: Nodule characteristics,Purpose: Screening in high-risk smokers | Follow-up: Bronchoscopy / Biopsy,Invasiveness: Non-invasive | Turnaround: Same day | Risks: Radiation exposure
+Diagnostic_Methods,Lung Cancer,Bronchoscopy with Biopsy (NSCLC / SCLC),"Camera tube enters airways for visualization and biopsy | Sample: Tissue/Brushing | Stage: All stages | Biomarkers: EGFR, ALK, PD-L1",Purpose: Direct tumor sampling | Follow-up: Molecular profiling,"Invasiveness: Minimally invasive | Turnaround: 1-3 days | Risks: Cough, bleeding"
