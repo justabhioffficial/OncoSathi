@@ -11,11 +11,15 @@ import time
 from pathlib import Path
 import streamlit as st
 
-# Setup python path to include backend
+# Setup python path to include backend and resolve package collision
 BASE_DIR = Path(__file__).resolve().parent
 BACKEND_DIR = BASE_DIR / "backend"
 if str(BACKEND_DIR) not in sys.path:
     sys.path.insert(0, str(BACKEND_DIR))
+
+# Prevent module naming collision where Streamlit registers app.py as sys.modules['app']
+if "app" in sys.modules and not hasattr(sys.modules["app"], "__path__"):
+    del sys.modules["app"]
 
 # Page Configuration
 st.set_page_config(
