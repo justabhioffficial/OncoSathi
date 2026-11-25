@@ -1,7 +1,8 @@
 // API Client for OncoSathi Backend
 import { SimplifyResponse, MedicalTermItem, Language, SimplificationLevel } from '../types';
 
-const API_BASE = (import.meta as any).env?.VITE_API_BASE || '';
+const RAW_API_BASE = (import.meta as any).env?.VITE_API_BASE || (import.meta as any).env?.VITE_API_BASE_URL || '';
+export const API_BASE = RAW_API_BASE.replace(/\/+$/, '');
 
 export const simplifyText = async (
   text: string,

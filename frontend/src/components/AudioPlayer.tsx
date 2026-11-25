@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React, { useState, useRef } from 'react';
+import { API_BASE } from '../services/api';
 
 interface AudioPlayerProps {
   text: string;
@@ -8,15 +9,63 @@ interface AudioPlayerProps {
 export const AudioPlayer: React.FC<AudioPlayerProps> = ({ text, language }) => {
   const [isPlaying, setIsPlaying] = useState(false);
   const [isPaused, setIsPaused] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
 
-  const playSpeech = () => {
+  const isBn = language === 'bengali' || language === 'bn' || /[\u0980-\u09FF]/.test(text);
+
+  const playSpeech = async () => {
+    if (!text) return;
+    setIsLoading(true);
+
+    // Try server-side native audio stream first (provides real native Bengali TTS)
+    try {
+      const streamUrl = `${API_BASE}/api/tts/stream?text=${encodeURIComponent(text)}&language=${isBn ? 'bn' : 'en'}`;
+      
+      if (audioRef.current) {
+        audioRef.current.pause();
+      }
+
+      const audio = new Audio(streamUrl);
+      audioRef.current = audio;
+
+      audio.onplaying = () => {
+        setIsLoading(false);
+        setIsPlaying(true);
+        setIsPaused(false);
+      };
+
+      audio.onpause = () => {
+        if (!audio.ended) {
+          setIsPaused(true);
+        }
+      };
+
+      audio.onended = () => {
+        setIsPlaying(false);
+        setIsPaused(false);
+        setIsLoading(false);
+      };
+
+      audio.onerror = () => {
+        // Fallback to browser Web Speech API
+        fallbackToBrowserSpeech();
+      };
+
+      await audio.play();
+    } catch {
+      fallbackToBrowserSpeech();
+    }
+  };
+
+  const fallbackToBrowserSpeech = () => {
+    setIsLoading(false);
     if (!('speechSynthesis' in window)) {
       alert('Your browser does not support audio speech output.');
       return;
     }
     window.speechSynthesis.cancel();
     const utterance = new SpeechSynthesisUtterance(text);
-    const isBn = language === 'bengali' || language === 'bn' || /[\u0980-\u09FF]/.test(text);
     utterance.lang = isBn ? 'bn-IN' : 'en-IN';
     utterance.rate = isBn ? 0.85 : 0.95;
 
@@ -34,7 +83,13 @@ export const AudioPlayer: React.FC<AudioPlayerProps> = ({ text, language }) => {
   };
 
   const pauseSpeech = () => {
-    if (window.speechSynthesis.speaking && !isPaused) {
+    if (audioRef.current && !audioRef.current.paused) {
+      audioRef.current.pause();
+      setIsPaused(true);
+    } else if (audioRef.current && isPaused) {
+      audioRef.current.play();
+      setIsPaused(false);
+    } else if (window.speechSynthesis.speaking && !isPaused) {
       window.speechSynthesis.pause();
       setIsPaused(true);
     } else if (isPaused) {
@@ -44,23 +99,37 @@ export const AudioPlayer: React.FC<AudioPlayerProps> = ({ text, language }) => {
   };
 
   const stopSpeech = () => {
-    window.speechSynthesis.cancel();
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current.currentTime = 0;
+    }
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+    }
     setIsPlaying(false);
     setIsPaused(false);
+    setIsLoading(false);
   };
 
   return (
     <div className="flex items-center justify-between p-2.5 bg-[#F7F8F6] rounded border border-[#E3E8E5] text-xs">
       <div className="flex items-center space-x-2 text-[#586563]">
-        <span className="font-medium">Audio explanation ({language === 'bengali' ? 'বাংলা কন্ঠ' : 'English Voice'}):</span>
+        <span className="font-medium">
+          Audio explanation ({isBn ? 'বাংলা কণ্ঠস্বর (Bengali Voice)' : 'English Voice'}):
+        </span>
       </div>
       <div className="flex items-center space-x-1.5">
-        {!isPlaying ? (
+        {isLoading ? (
+          <span className="px-2.5 py-1 text-slate-500 font-medium text-xs">
+            Loading audio...
+          </span>
+        ) : !isPlaying ? (
           <button
             onClick={playSpeech}
-            className="px-2.5 py-1 bg-[#176B63] hover:bg-[#124E49] text-white rounded font-medium text-xs transition-colors"
+            className="px-2.5 py-1 bg-[#176B63] hover:bg-[#124E49] text-white rounded font-medium text-xs transition-colors flex items-center gap-1"
           >
-            Play audio
+            <span>▶</span>
+            <span>Play audio</span>
           </button>
         ) : (
           <>

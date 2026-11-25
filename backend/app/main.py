@@ -1,6 +1,13 @@
 # -*- coding: utf-8 -*-
 import os
+import sys
 from pathlib import Path
+
+# Ensure backend directory is in sys.path so 'app.*' imports work from any working directory
+BACKEND_DIR = Path(__file__).resolve().parent.parent
+if str(BACKEND_DIR) not in sys.path:
+    sys.path.insert(0, str(BACKEND_DIR))
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
@@ -16,11 +23,17 @@ app = FastAPI(
     version=APP_VERSION
 )
 
-# Enable CORS for local dev & production
+# Enable CORS for local dev, Netlify, and custom domains
+allowed_origins_env = os.environ.get("ALLOWED_ORIGINS", "*")
+if allowed_origins_env == "*":
+    origins = ["*"]
+else:
+    origins = [o.strip() for o in allowed_origins_env.split(",") if o.strip()]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
+    allow_origins=origins,
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )

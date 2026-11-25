@@ -14,7 +14,7 @@ APP_TAGLINE = "Simplifying Cancer Knowledge for Community Healthcare"
 APP_VERSION = "1.0.0"
 
 # Host and Port
-HOST = os.environ.get("HOST", "127.0.0.1")
+HOST = os.environ.get("HOST", "0.0.0.0")
 PORT = int(os.environ.get("PORT", "8000"))
 
 # AI / LLM Configuration
